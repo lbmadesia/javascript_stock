@@ -10,6 +10,6 @@ var url = window.location+val;
 
 / /g     this regular expresion is used to select (one space or more space)
 
-/\s\./  this regular expresion is used to select (one space or more space with one . or more .......)
+"/\s+\./"  this regular expresion is used to select (one space or more space with one . or more .......)
 
 
